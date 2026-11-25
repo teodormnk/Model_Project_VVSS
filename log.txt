@@ -1,0 +1,3 @@
+[ERROR]  [2026-11-16 18:48:24] - Numele utilizatorului nu poate fi gol
+[ERROR]  [2026-11-16 18:48:24] - Email-ul utilizatorului este invalid
+[ERROR]  [2026-11-16 18:48:24] - Telefonul utilizatorului este invalid
